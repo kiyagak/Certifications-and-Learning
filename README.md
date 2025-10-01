@@ -15,9 +15,9 @@ The Certified Ethical Hacker (CEH) certification validates the ability to identi
 
 Candidate Name: Kuteesa Kiyaga
 
-Credential ID ECC9278351064
+Credential ID: ECC9278351064
 
-Issued Jun 2025 · Expires Jun 2026
+Issued: Jun 2025 · Expires Jun 2026
 
 Verify: https://aspen.eccouncil.org/verify
 
