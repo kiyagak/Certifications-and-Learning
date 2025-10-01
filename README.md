@@ -29,3 +29,9 @@ Verify: https://www.credly.com/badges/6707de6f-8893-4fc9-a847-8f45f9fc74e7/
 Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.
 
 Verify: https://www.credly.com/badges/d00c3c54-6e20-4dea-98de-a6fc8e6655a7
+
+# My House Stats
+
+Developed a full-stack website while using front-end and back-end web development skills.  Created content that was optimized for search engine optimization (SEO), created graphic and video content, and built an e-commerce store to list products that people can buy.  
+
+Website: https://myhousestats.com
