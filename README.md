@@ -35,3 +35,5 @@ Verify: https://www.credly.com/badges/d00c3c54-6e20-4dea-98de-a6fc8e6655a7
 Developed a full-stack website while using front-end and back-end web development skills.  Created content that was optimized for search engine optimization (SEO), created graphic and video content, implemented security best-practices, and built an e-commerce store to list products that people can buy.  
 
 Website: https://myhousestats.com
+
+https://www.youtube.com/watch?v=6kFNk9UbySs
