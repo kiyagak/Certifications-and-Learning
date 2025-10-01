@@ -36,4 +36,6 @@ Developed a full-stack website while using front-end and back-end web developmen
 
 Website: https://myhousestats.com
 
+<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/4a305d8d-5134-45c5-976e-c02e4b9c57e9" />
+
 https://www.youtube.com/watch?v=6kFNk9UbySs
