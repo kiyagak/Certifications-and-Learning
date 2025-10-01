@@ -1,5 +1,5 @@
 # Certifications-and-Learning
-Certificates and learning achievements.  
+Certificates,learning achievements, and projects.  
 
 # CompTIA Security+
 
