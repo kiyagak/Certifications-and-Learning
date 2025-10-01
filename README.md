@@ -5,6 +5,12 @@ Certificates,learning achievements, and projects.
 
 Earners of the CompTIA Security+ certification have the knowledge and skills necessary to perform core security functions required of any cybersecurity role. CompTIA Security+ professionals know how to identify and address potential threats, attacks and vulnerabilities and they have established techniques in risk management, risk mitigation, threat management and intrusion detection.
 
+Certification name: CompTIA Security+
+
+Issuing organization: CompTIA
+
+Date obtained: February 13th, 2025
+
 Verify: https://www.credly.com/badges/25d3a0c9-15c5-48a6-8fb4-855996994619
 
 <img width="800" height="618" alt="image" src="https://github.com/user-attachments/assets/0ad3a48f-c49d-4cf3-bb86-bf2947c36fdf" />
@@ -13,11 +19,15 @@ Verify: https://www.credly.com/badges/25d3a0c9-15c5-48a6-8fb4-855996994619
 
 The Certified Ethical Hacker (CEH) certification validates the ability to identify vulnerabilities and weaknesses in computer systems using the same tools and methods as malicious hackers, but in an ethical and legal way. It covers areas like network scanning, system hacking, web app security, social engineering, malware, and cryptography. CEH certifies skills for penetration testing and ethical hacking roles to protect organizations from cyber threats effectively.
 
+Certification name: Certified Ethical Hacker (CEH)
+
+Issuing organization: EC-Council
+
+Date obtained: June 20th, 2025
+
 Candidate Name: Kuteesa Kiyaga
 
 Credential ID: ECC9278351064
-
-Issued: Jun 2025 · Expires Jun 2026
 
 Verify: https://aspen.eccouncil.org/verify
 
@@ -26,10 +36,22 @@ Verify: https://aspen.eccouncil.org/verify
 # CompTIA A+
 Earners of the CompTIA A+ certification are proven problem solvers who are able to perform critical IT support tasks including device configuration, data backup and recovery, and operating system configuration. CompTIA A+ certified professionals have demonstrated baseline security skills for IT support roles and are able to detect and remove malware, address privacy concerns, and troubleshoot core service challenges.
 
+Certification name: CompTIA A+
+
+Issuing organization: CompTIA
+
+Date obtained: July 22nd, 2025
+
 Verify: https://www.credly.com/badges/6707de6f-8893-4fc9-a847-8f45f9fc74e7/
 
 # Microsoft Azure Fundamentals
 Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.
+
+Certification name: Microsoft Azure Fundamentals
+
+Issuing organization: Microsoft
+
+Date obtained: September 4th, 2021
 
 Verify: https://www.credly.com/badges/d00c3c54-6e20-4dea-98de-a6fc8e6655a7
 
