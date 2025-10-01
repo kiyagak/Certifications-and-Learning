@@ -14,8 +14,11 @@ Verify: https://www.credly.com/badges/25d3a0c9-15c5-48a6-8fb4-855996994619
 The Certified Ethical Hacker (CEH) certification validates the ability to identify vulnerabilities and weaknesses in computer systems using the same tools and methods as malicious hackers, but in an ethical and legal way. It covers areas like network scanning, system hacking, web app security, social engineering, malware, and cryptography. CEH certifies skills for penetration testing and ethical hacking roles to protect organizations from cyber threats effectively.
 
 Candidate Name: Kuteesa Kiyaga
+
 Credential ID ECC9278351064
+
 Issued Jun 2025 · Expires Jun 2026
+
 Verify: https://aspen.eccouncil.org/verify
 
 <img width="1942" height="1536" alt="image" src="https://github.com/user-attachments/assets/177b8842-fcd5-4835-ac58-9a4d57459269" />
